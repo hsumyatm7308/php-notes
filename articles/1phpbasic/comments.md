@@ -5,7 +5,7 @@
      (i) Single Line comment 
      (ii) Multi Line comment 
    
-###- Single line 
+### - Single line 
 
      single line comment မှာလည်း နည်း နှစ်မျိုးနဲ့ သုံးလို့ရပါတယ်။ ( # ) နဲ့  သုံးမယ်ဆိုလည်း ရပြီး  // )နဲ့ သုံးမယ်ဆိုလည်း ရပါတယ်။ 
     
