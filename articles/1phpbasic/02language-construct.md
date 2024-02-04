@@ -35,6 +35,7 @@
   ဆိုလိုချင်တာက parenthesis ထည့်တဲ့အခါ multi parameter မရပါဘူး။ 
 
 
+###
 
 
 # =>print() 
