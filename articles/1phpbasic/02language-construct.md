@@ -1,7 +1,7 @@
 # => echo
   echo ဆိုတာက parameter တွေရဲ့  output data ကို document or browser ပေါ် ပြသပေးနိုင်တဲ့ language construct လို့ ဆိုရပါမယ်။ strings, variables တွေကို comma နဲ့ ခွဲပြီး   (သို့မဟုတ်)  အတူတူ တွဲပြီးလည်း သုံးနိုင်တဲ့ multi output ထုတ် ပေးနိုင်တဲ့ကောင်ဖြစ်ပါတယ်။
 
-### - Single string 
+### - Single parameter 
 
       `<?php
 
@@ -9,7 +9,7 @@
          // output -   Hello 
 
        ?>`
-### - Multi strings 
+### - Multi parameter 
 
       `<?php
 
