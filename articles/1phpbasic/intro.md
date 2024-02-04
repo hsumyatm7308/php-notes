@@ -2,7 +2,7 @@
 
 PHP ( Hypertext Preprocessor ) ဆိုတာ  script language တစ်ခုဖြစ်ပြီး server side မှာ အသုံးပြုပါတယ်။ တစ်နည်းအားဖြင့် ဆိုလျှင် backend language တစ်ခုပေါ။ လက်ရှိမှာတော့ PHP က version 8.2.12  ရောက်နေပါပြီ။ 
 
-PHP ရဲ့ syntax ကတော့  <?php ... ?>  ဖြစ်ပါတယ်။ PHP ရဲ့ information အကုန်သိချင်ရင်တော့  phpinfo()   ဆိုတဲ့ method ကို သုံးရင် အကုန်ကျလာပါလိမ့်မယ်။
+PHP ရဲ့ syntax ကတော့  `<?php ... ?>`  ဖြစ်ပါတယ်။ PHP ရဲ့ information အကုန်သိချင်ရင်တော့  phpinfo()   ဆိုတဲ့ method ကို သုံးရင် အကုန်ကျလာပါလိမ့်မယ်။
 
 eg.
 
